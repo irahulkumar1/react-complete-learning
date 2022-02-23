@@ -1,4 +1,5 @@
-import '../style/Card.css'
+import React from 'react';
+import '../../style/Card.css'
 
 function card(props) {
 
